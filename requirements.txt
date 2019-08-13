@@ -1,0 +1,13 @@
+pip:
+	numpy
+  pandas
+	matplotlib
+	dlib
+	scipy
+	keras
+	pillow
+	opencv-python
+	h5py
+	imutils
+	cython
+  tensorflow
